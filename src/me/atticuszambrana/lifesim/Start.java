@@ -11,11 +11,11 @@ public class Start {
 		// Lets get everything ready first.
 		PersonGenerator generator = new PersonGenerator();
 		
-		// Testing
-		for(int i = 0; i < 10; i++) {
-			Person p = generator.generate();
-			System.out.println("Name: " + p.getName() + ", Gender: " + p.getGender());
-		}
+//		// Testing
+//		for(int i = 0; i < 1; i++) {
+//			Person p = generator.generate();
+//			System.out.println("Name: " + p.getName() + ", Gender: " + p.getGender());
+//		}
 	}
 	
 //	List<String> names = new ArrayList<String>();
